@@ -1,6 +1,5 @@
 def my_hash
   john_hash = {"first name" => "John", "last name" => "Hayes", "age" => 38}
-  
 end
 
 
